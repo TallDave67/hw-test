@@ -1,0 +1,13 @@
+hard_drive is off
+hard_drive has been turned on
+hard_drive is on
+hard_drive has capacity = 100
+hard_drive has been turned off
+hard_drive is off
+====================
+camera is off
+camera has been turned on
+camera is on
+camera has capacity = 17
+camera has been turned off
+camera is off
