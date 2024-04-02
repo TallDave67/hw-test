@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-04-02T20:00:15.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="7molgu-EOAtuLzjnQoZn" version="24.2.1" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="858" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="a4QFLTxps45KsrlHkeSP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a4QFLTxps45KsrlHkeSP-0" target="a4QFLTxps45KsrlHkeSP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a4QFLTxps45KsrlHkeSP-0" target="a4QFLTxps45KsrlHkeSP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-0" value="HwBase" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-4" value="std::string name()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="27" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-5" value="HdSatisfying" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="160" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-6" value="&lt;div&gt;PowerSatisfying power()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;StorageSatisfying storage()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="187" width="180" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-7" value="CamSatisfying" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="160" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-8" value="&lt;div&gt;PowerSatisfying power()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;StorageSatisfying storage()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OpticsSatisfying optics()&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="187" width="180" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-11" value="inherit" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4QFLTxps45KsrlHkeSP-13" value="inherit" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
