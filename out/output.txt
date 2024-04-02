@@ -9,5 +9,6 @@ camera is off
 camera has been turned on
 camera is on
 camera has capacity = 17
+camera has focal length = 0.25
 camera has been turned off
 camera is off

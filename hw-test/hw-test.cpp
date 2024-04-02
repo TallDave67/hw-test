@@ -2,19 +2,19 @@
 //
 
 #include <iostream>
-#include "hw-test-runner.hpp"
-#include "HardDrive.h"
-#include "Camera.h"
+#include "hw-test-constraining-runner.hpp"
+#include "hd-satisfying.h"
+#include "cam-satisfying.h"
 
 int main()
 {
-    HardDrive hd;
-    HwTestRunner<HardDrive> hd_runner;
-    hd_runner.runTest(hd);
+    HdSatisfying hd;
+    HwTestConstrainingRunner1<HdSatisfying> hd_test_constraining_runner;
+    hd_test_constraining_runner.runTest(hd);
     std::cout << "====================" << std::endl;
-    Camera cam;
-    HwTestRunner<Camera> cam_runner;
-    cam_runner.runTest(cam);
+    CamSatisfying cam;
+    HwTestConstrainingRunner2<CamSatisfying> cam_test_constraining_runner;
+    cam_test_constraining_runner.runTest(cam);
 
     return 0;
 }

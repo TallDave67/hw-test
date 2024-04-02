@@ -131,14 +131,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="HardDrive.cpp" />
+    <ClCompile Include="cam-satisfying.cpp" />
+    <ClCompile Include="hd-satisfying.cpp" />
+    <ClCompile Include="hw-base.cpp" />
     <ClCompile Include="hw-test.cpp" />
+    <ClCompile Include="optics-satisfying.cpp" />
+    <ClCompile Include="power-satisfying.cpp" />
+    <ClCompile Include="storage-satisfying.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Camera.h" />
-    <ClInclude Include="HardDrive.h" />
-    <ClInclude Include="hw-test-runner.hpp" />
+    <ClInclude Include="cam-satisfying.h" />
+    <ClInclude Include="hd-satisfying.h" />
+    <ClInclude Include="hw-base.h" />
+    <ClInclude Include="hw-test-constraining-concepts.hpp" />
+    <ClInclude Include="hw-test-constraining-runner.hpp" />
+    <ClInclude Include="optics-satisfying.h" />
+    <ClInclude Include="power-satisfying.h" />
+    <ClInclude Include="storage-satisfying.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

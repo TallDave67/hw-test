@@ -18,21 +18,48 @@
     <ClCompile Include="hw-test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HardDrive.cpp">
+    <ClCompile Include="cam-satisfying.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Camera.cpp">
+    <ClCompile Include="hd-satisfying.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="power-satisfying.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="storage-satisfying.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hw-base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="optics-satisfying.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="hw-test-runner.hpp">
+    <ClInclude Include="cam-satisfying.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HardDrive.h">
+    <ClInclude Include="hd-satisfying.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Camera.h">
+    <ClInclude Include="hw-test-constraining-runner.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="power-satisfying.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hw-test-constraining-concepts.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="storage-satisfying.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hw-base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="optics-satisfying.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
